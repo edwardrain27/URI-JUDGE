@@ -1,4 +1,5 @@
 
+print("Digite los valores de A,B,C Y D")
 values = input()
 abcd=values.split(' ')
 a=int(abcd[0])
