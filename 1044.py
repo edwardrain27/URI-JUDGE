@@ -1,4 +1,5 @@
 
+print('Digite los numeros correspondientes: ')
 numbers = input().split(' ')
 
 numbers = [int(x) for x in numbers] 
